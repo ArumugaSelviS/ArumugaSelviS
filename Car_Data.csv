@@ -1,0 +1,301 @@
+Model,Mileage (km/l),Brand,Fuel Type,Seater,Transmission,Engine (cc),Price (INR),Year,Units Sold
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2022,11883
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2023,14596
+Urban Cruiser,22.8,Toyota,Hybrid,8,Manual,1933,887944,2023,5471
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2024,2684
+Tiago,25.8,Tata,Hybrid,4,Manual,1714,1919860,2023,13181
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2023,2889
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2020,4127
+Amaze,28.9,Honda,CNG,7,Automatic,1223,847564,2024,4291
+Wagon R,29.4,Maruti Suzuki,Electric,8,Manual,857,813483,2025,2628
+Alto K10,27.1,Maruti Suzuki,CNG,4,Manual,973,1344673,2023,4532
+Fortuner,26.8,Toyota,Diesel,7,Manual,1979,1779702,2020,6791
+Urban Cruiser,19.8,Toyota,Hybrid,8,Manual,1602,1099155,2022,2270
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2023,6028
+Baleno,17.6,Maruti Suzuki,Diesel,7,Automatic,826,605840,2022,1562
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2024,7571
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2023,14917
+Dzire,23,Maruti Suzuki,CNG,5,Manual,848,1098160,2024,12102
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2021,14938
+Alto K10,21.8,Maruti Suzuki,Electric,6,Manual,1085,1130357,2021,7272
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2023,4755
+Wagon R,23.2,Maruti Suzuki,CNG,6,Automatic,1485,1995547,2025,9965
+Amaze,15.4,Honda,Diesel,5,Automatic,1962,1798676,2024,9389
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2024,4323
+WR-V,26.7,Honda,Hybrid,7,Automatic,1102,1608259,2025,5951
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2021,11296
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2020,11157
+Verna,22.1,Hyundai,Electric,4,Automatic,1341,1148575,2024,8521
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2024,1982
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2021,6959
+CR-V,16.1,Honda,Hybrid,6,Automatic,1746,1564083,2020,4076
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2022,12100
+Ertiga,23.3,Maruti Suzuki,Hybrid,6,Automatic,1983,663490,2022,9276
+Santro,21.1,Hyundai,CNG,6,Manual,1984,1714529,2023,8368
+Ertiga,16.7,Maruti Suzuki,Electric,5,Manual,1171,1875872,2022,1919
+Verna,29.7,Hyundai,Diesel,4,Manual,993,1030805,2025,12955
+Verna,21.5,Hyundai,Electric,5,Manual,1790,620074,2025,9843
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2021,1852
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2022,2272
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2020,5491
+Venue,16.9,Hyundai,Hybrid,6,Manual,1893,727474,2025,5727
+Baleno,25.2,Maruti Suzuki,Hybrid,8,Manual,1292,1376634,2024,5008
+Urban Cruiser,17.2,Toyota,Diesel,5,Manual,1697,1315393,2024,13089
+Urban Cruiser,24,Toyota,Hybrid,8,Manual,1065,1385143,2020,5906
+S-Presso,29.1,Maruti Suzuki,Petrol,5,Automatic,1261,473785,2022,9013
+Jazz,17.9,Honda,Diesel,4,Automatic,1444,425937,2024,2845
+i20,16.5,Hyundai,Hybrid,7,Manual,1437,1837616,2021,10519
+Safari,19.4,Tata,Diesel,6,Automatic,1900,670119,2022,7854
+Venue,17.9,Hyundai,Electric,6,Manual,979,1986923,2024,4750
+S-Presso,21.2,Maruti Suzuki,Diesel,5,Manual,1406,1148586,2023,5815
+Fortuner,26.3,Toyota,CNG,7,Manual,1502,1517252,2020,1080
+City,29.2,Honda,Petrol,7,Automatic,1239,884551,2024,5969
+Verna,29.4,Hyundai,Petrol,4,Automatic,1382,1641761,2021,11945
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2024,4839
+Santro,20.1,Hyundai,Hybrid,6,Manual,1933,1536395,2025,1033
+i10,26,Hyundai,Hybrid,5,Automatic,1098,780519,2021,12022
+Glanza,15.7,Toyota,CNG,8,Manual,1702,1664391,2020,14750
+Glanza,26.1,Toyota,Electric,7,Automatic,850,1291459,2021,13419
+City,17.2,Honda,CNG,6,Manual,1938,1315515,2023,13039
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2024,11827
+Baleno,26.4,Maruti Suzuki,Hybrid,4,Automatic,1722,1269071,2023,3198
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2020,6140
+i20,26.4,Hyundai,Petrol,7,Automatic,1464,1164918,2020,3600
+Jazz,18,Honda,Hybrid,6,Manual,1439,1265874,2024,14591
+i10,28.5,Hyundai,Electric,5,Automatic,1996,717406,2020,7430
+Eeco,24.1,Maruti Suzuki,Electric,5,Automatic,1610,1900832,2021,3236
+Verna,20.5,Hyundai,Electric,5,Automatic,967,532766,2020,3068
+Santro,25.1,Hyundai,Diesel,4,Automatic,1641,901829,2023,8192
+Jazz,19.5,Honda,Petrol,6,Manual,1798,412882,2025,9907
+WR-V,23.7,Honda,CNG,4,Automatic,1413,1510343,2025,9384
+Dzire,18.3,Maruti Suzuki,Hybrid,4,Manual,1306,1538682,2021,12646
+Dzire,28.7,Maruti Suzuki,Petrol,5,Manual,1850,1362908,2025,12314
+Fortuner,17.9,Toyota,CNG,7,Manual,1568,575231,2024,10258
+i20,25.4,Hyundai,Diesel,5,Manual,1937,1887748,2021,7941
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2023,5117
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2021,13583
+Tigor,27,Tata,Petrol,7,Automatic,1436,1434438,2022,6368
+Dzire,20.7,Maruti Suzuki,Diesel,5,Automatic,1979,456109,2020,6055
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2021,1498
+CR-V,25.2,Honda,CNG,7,Automatic,1471,1548322,2020,10345
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2023,11291
+Venue,21.4,Hyundai,Hybrid,4,Automatic,1217,433459,2021,3224
+i20,16.7,Hyundai,CNG,6,Automatic,1142,601195,2022,1983
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2020,13417
+CR-V,21.4,Honda,Electric,4,Manual,1971,1941175,2024,10002
+Urban Cruiser,29,Toyota,Diesel,8,Automatic,1198,1217418,2022,3324
+Wagon R,15.9,Maruti Suzuki,Petrol,6,Manual,1081,704714,2025,5503
+Venue,27.8,Hyundai,Hybrid,7,Automatic,849,852444,2025,1626
+Jazz,24.5,Honda,CNG,4,Manual,845,1878591,2022,11236
+Urban Cruiser,16.2,Toyota,Electric,4,Manual,1895,995573,2024,9839
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2022,8224
+Ertiga,16.4,Maruti Suzuki,Electric,8,Automatic,1221,815676,2020,10645
+WR-V,21.4,Honda,CNG,4,Manual,1398,1552013,2024,9559
+Santro,24.6,Hyundai,CNG,5,Manual,1664,1846577,2024,14403
+i20,17.7,Hyundai,Diesel,6,Manual,1316,1425090,2023,11250
+CR-V,21.7,Honda,Diesel,8,Automatic,984,722810,2025,5396
+Fortuner,29.2,Toyota,Petrol,6,Manual,1368,1931924,2022,12283
+Nexon,18.1,Tata,Petrol,4,Manual,1779,1318197,2021,2025
+Baleno,15.9,Maruti Suzuki,Diesel,8,Automatic,2000,1814350,2020,4951
+WR-V,18.1,Honda,CNG,4,Automatic,1096,1877720,2021,14753
+CR-V,15.3,Honda,Diesel,4,Automatic,964,1807303,2023,3158
+Jazz,28.4,Honda,Electric,5,Automatic,1577,705710,2021,10761
+Eeco,26.3,Maruti Suzuki,Diesel,4,Manual,1447,1957803,2022,10413
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2021,1282
+Santro,18.7,Hyundai,Diesel,8,Manual,1547,1408476,2020,5963
+Fortuner,24.4,Toyota,Diesel,8,Manual,1224,504870,2021,10742
+Safari,24.1,Tata,Electric,7,Manual,1513,1568239,2025,2160
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2024,8963
+Alto K10,23.5,Maruti Suzuki,Hybrid,6,Manual,1666,724777,2024,8534
+S-Presso,24.5,Maruti Suzuki,Electric,7,Manual,1856,1821174,2020,5615
+i10,24.7,Hyundai,Diesel,8,Automatic,1626,407997,2021,1912
+Eeco,26.7,Maruti Suzuki,CNG,6,Manual,1312,1031591,2022,8153
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2020,7580
+Alto K10,25,Maruti Suzuki,Hybrid,5,Automatic,1405,1179008,2021,6603
+Venue,28.6,Hyundai,Electric,6,Manual,1184,760018,2022,3400
+Baleno,26.6,Maruti Suzuki,Petrol,6,Automatic,1969,1353801,2020,2522
+Nexon,28.5,Tata,Petrol,4,Manual,1376,660752,2024,12951
+Wagon R,28.6,Maruti Suzuki,CNG,7,Automatic,1172,781059,2024,7458
+Amaze,24.3,Honda,Electric,4,Manual,1695,1396269,2025,2643
+Baleno,23.9,Maruti Suzuki,Hybrid,5,Automatic,1038,976002,2025,2362
+i20,29.1,Hyundai,Diesel,8,Manual,1823,656979,2020,1090
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2024,13991
+Amaze,20.9,Honda,Hybrid,7,Automatic,1569,1334663,2025,12637
+Ertiga,21.8,Maruti Suzuki,CNG,8,Automatic,1733,722348,2021,3722
+Fortuner,19.7,Toyota,Hybrid,4,Manual,1170,1761742,2021,1346
+Baleno,24.6,Maruti Suzuki,Diesel,5,Automatic,1804,421529,2025,7472
+Urban Cruiser,26,Toyota,Petrol,8,Automatic,895,1686866,2022,13477
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2025,12298
+S-Presso,28.6,Maruti Suzuki,Hybrid,8,Manual,1110,1284634,2023,6175
+Fortuner,17.4,Toyota,Hybrid,5,Manual,1542,849913,2022,1451
+Tiago,26.4,Tata,Diesel,6,Automatic,999,476059,2021,12617
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2022,11455
+Wagon R,17.5,Maruti Suzuki,CNG,7,Automatic,1977,975417,2023,4765
+City,17.2,Honda,Petrol,8,Automatic,843,745231,2024,5969
+CR-V,17.8,Honda,Electric,5,Manual,1161,1249909,2025,6375
+Urban Cruiser,21.6,Toyota,Diesel,7,Automatic,1214,1354453,2023,6904
+Ertiga,22.2,Maruti Suzuki,CNG,7,Manual,1089,643473,2025,1099
+Safari,25.3,Tata,Hybrid,7,Manual,949,608372,2020,9336
+Wagon R,15.5,Maruti Suzuki,CNG,4,Manual,1058,1090799,2020,12227
+Innova Crysta,12,Toyota,Petrol/Diesel,7,Manual/Automatic,2694,1999000,2020,3426
+City,18.1,Honda,CNG,8,Automatic,1705,1381666,2021,8030
+Santro,23.6,Hyundai,Diesel,7,Automatic,832,1822852,2020,5764
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2020,6875
+i20,15.2,Hyundai,Petrol,6,Manual,1622,1538649,2023,5316
+Baleno,28.1,Maruti Suzuki,Petrol,7,Automatic,922,1095089,2021,1839
+CR-V,23.2,Honda,CNG,8,Manual,1769,1603655,2022,1859
+City,17.9,Honda,Diesel,6,Automatic,840,1111879,2023,4699
+Tiago,19.1,Tata,Petrol,6,Automatic,1987,463848,2020,7567
+Alto K10,26.9,Maruti Suzuki,CNG,8,Manual,1312,1610984,2020,14585
+Venue,21.4,Hyundai,Hybrid,5,Automatic,1044,842471,2025,4983
+Eeco,18.2,Maruti Suzuki,Electric,4,Automatic,1713,1459554,2023,12031
+i10,16.8,Hyundai,Diesel,8,Automatic,1630,1863731,2022,5702
+Venue,22.8,Hyundai,Hybrid,7,Automatic,961,1638181,2021,5779
+Dzire,23.6,Maruti Suzuki,Hybrid,7,Manual,1711,1744823,2022,7153
+CR-V,15.5,Honda,Petrol,5,Automatic,1995,1471154,2023,6438
+Venue,24.3,Hyundai,Hybrid,7,Automatic,1703,1511497,2023,8852
+Glanza,17.5,Toyota,CNG,5,Automatic,1324,1637524,2024,6850
+S-Presso,25.5,Maruti Suzuki,Diesel,6,Manual,1200,1347099,2020,3591
+S-Presso,19.2,Maruti Suzuki,Hybrid,8,Manual,1964,1522860,2020,1045
+Baleno,25.9,Maruti Suzuki,Diesel,8,Manual,1352,1720260,2020,12785
+CR-V,21.1,Honda,CNG,8,Automatic,1631,1232319,2024,14945
+Nexon,20.5,Tata,Petrol,5,Automatic,1666,936478,2021,3169
+Alto K10,15.5,Maruti Suzuki,Petrol,5,Manual,1440,1608339,2020,2382
+i10,24.7,Hyundai,Hybrid,7,Manual,868,1876037,2023,9094
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2020,2884
+i10,16.6,Hyundai,CNG,7,Manual,1915,755013,2023,14864
+Fortuner,18.8,Toyota,Diesel,5,Automatic,1407,1374397,2023,6809
+Dzire,29.4,Maruti Suzuki,Electric,7,Automatic,1068,483947,2024,12401
+Ertiga,18.3,Maruti Suzuki,Electric,6,Manual,1212,893015,2021,9550
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2021,12953
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2024,10284
+Jazz,22.1,Honda,Hybrid,7,Automatic,833,890356,2021,2931
+i20,27.8,Hyundai,Electric,7,Manual,1785,1404875,2024,3971
+CR-V,24.2,Honda,CNG,5,Manual,1802,773825,2024,4281
+Urban Cruiser,16.4,Toyota,Hybrid,5,Manual,1349,687625,2020,1865
+Dzire,21.2,Maruti Suzuki,Electric,5,Automatic,1169,1274965,2023,4818
+Alto K10,21,Maruti Suzuki,Hybrid,4,Manual,976,1716025,2022,4231
+S-Presso,20.2,Maruti Suzuki,Hybrid,6,Manual,1209,1499191,2022,1554
+i20,20.9,Hyundai,Electric,5,Manual,1053,1993535,2022,14164
+Tigor,29.7,Tata,Petrol,4,Manual,1093,502349,2024,2015
+Wagon R,29.6,Maruti Suzuki,Electric,8,Automatic,1364,1797056,2024,11547
+Nexon,22.1,Tata,CNG,5,Manual,1892,456401,2020,3419
+Fortuner,16.3,Toyota,Diesel,4,Manual,1968,1027582,2020,11525
+Safari,28.9,Tata,Petrol,7,Automatic,1809,909643,2025,13035
+Safari,15,Tata,Diesel,7,Automatic,1335,671658,2023,11756
+Eeco,27.8,Maruti Suzuki,Hybrid,4,Automatic,1358,1495391,2024,14110
+Amaze,27.9,Honda,Electric,6,Automatic,1969,1777002,2024,4069
+Venue,18.6,Hyundai,Petrol,4,Automatic,893,672643,2021,4607
+i10,29.9,Hyundai,Diesel,5,Automatic,1475,978996,2020,2173
+Eeco,28.6,Maruti Suzuki,Hybrid,5,Automatic,1893,1298399,2025,14531
+Santro,24.9,Hyundai,Diesel,5,Automatic,1047,1311581,2025,14673
+Safari,26.3,Tata,Petrol,8,Automatic,1497,995435,2024,14897
+Safari,16.1,Tata,Hybrid,7,Automatic,1966,1441255,2021,5780
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2020,14680
+Alto K10,17.6,Maruti Suzuki,Petrol,8,Manual,993,929701,2020,8695
+Jazz,22.4,Honda,Petrol,4,Automatic,965,1702957,2024,11654
+Verna,26.1,Hyundai,Diesel,8,Manual,1073,709802,2022,7419
+Santro,15.8,Hyundai,Hybrid,4,Automatic,1765,1202951,2023,10396
+Dzire,23.5,Maruti Suzuki,Diesel,5,Automatic,807,520424,2022,5861
+Verna,23.9,Hyundai,Diesel,5,Manual,1697,1263859,2020,4043
+CR-V,18.5,Honda,CNG,8,Automatic,916,678216,2023,1162
+CR-V,21.5,Honda,Electric,7,Manual,1013,1340099,2021,13639
+WR-V,22.8,Honda,Electric,6,Manual,882,1152251,2022,11940
+Tiago,27.2,Tata,Electric,8,Manual,958,706795,2021,12690
+Alto K10,29.8,Maruti Suzuki,Petrol,5,Manual,1862,1083686,2020,9875
+i20,22.9,Hyundai,Electric,4,Manual,1093,1648074,2023,12194
+Tiago,27.9,Tata,Petrol,6,Automatic,1523,884698,2024,10148
+Wagon R,16.5,Maruti Suzuki,Hybrid,8,Automatic,1051,1188024,2025,11128
+Tiago,16.6,Tata,Petrol,4,Manual,1480,1556325,2021,4318
+CR-V,18.2,Honda,CNG,5,Automatic,949,423673,2024,3249
+Alto K10,15.4,Maruti Suzuki,Petrol,7,Automatic,901,619804,2021,13112
+Baleno,17.4,Maruti Suzuki,Electric,6,Manual,826,962839,2020,10512
+Verna,21.3,Hyundai,Diesel,4,Manual,1827,981612,2024,6606
+CR-V,16.3,Honda,Petrol,6,Manual,964,1111364,2022,7895
+City,24.7,Honda,Electric,7,Manual,1021,1825545,2021,1185
+i20,15.9,Hyundai,Petrol,4,Manual,838,1232084,2023,4838
+Urban Cruiser,29.8,Toyota,Diesel,8,Automatic,1338,790694,2021,10873
+Verna,19.5,Hyundai,Hybrid,8,Automatic,824,1301946,2021,3021
+City,27.3,Honda,Diesel,5,Manual,1263,1784439,2020,3723
+City,19.9,Honda,CNG,8,Automatic,897,447078,2024,13620
+Fortuner,27.5,Toyota,Petrol,7,Manual,1527,1421130,2022,7732
+Tiago,24.8,Tata,Electric,7,Manual,1846,1964379,2021,8760
+Tigor,23.3,Tata,CNG,5,Manual,1107,1560352,2020,1582
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2024,1701
+Santro,21.1,Hyundai,Diesel,7,Manual,1051,1832308,2020,13346
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2021,13872
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2020,9462
+WR-V,21.5,Honda,Petrol,8,Automatic,1949,1066317,2021,6887
+Tiago,22.6,Tata,Diesel,4,Manual,1728,775424,2020,7830
+Jazz,21.6,Honda,Petrol,4,Automatic,1800,1274822,2025,14260
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2024,2326
+Baleno,17.3,Maruti Suzuki,Hybrid,6,Manual,1770,771723,2023,9869
+Tiago,16.3,Tata,Petrol,5,Manual,1593,1136683,2020,2735
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2021,14345
+Amaze,29.7,Honda,Petrol,7,Automatic,1709,1594499,2021,9289
+S-Presso,15.3,Maruti Suzuki,Hybrid,5,Manual,1941,1985880,2023,3254
+Nexon,29.2,Tata,Petrol,6,Automatic,1742,701231,2023,13232
+Jazz,16.9,Honda,Petrol,7,Manual,1817,1008367,2025,2302
+Baleno,26.2,Maruti Suzuki,Petrol,7,Manual,1281,425929,2021,8854
+Safari,17.3,Tata,Hybrid,7,Manual,969,669440,2021,3259
+Venue,15.2,Hyundai,Hybrid,4,Manual,1307,1551619,2023,6142
+Amaze,21,Honda,Diesel,7,Manual,1706,1221448,2021,10032
+Nexon,21.6,Tata,Petrol,4,Automatic,1427,677604,2023,6321
+Baleno,15.2,Maruti Suzuki,Hybrid,5,Automatic,922,655115,2020,6551
+CR-V,19.2,Honda,Petrol,4,Automatic,1333,1811718,2023,5050
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2021,4519
+Baleno,29.5,Maruti Suzuki,Petrol,6,Manual,1524,632936,2020,6451
+Alto K10,19,Maruti Suzuki,Hybrid,8,Automatic,1206,973443,2023,10028
+Ertiga,26.2,Maruti Suzuki,CNG,6,Manual,938,716999,2023,9435
+i10,15.5,Hyundai,Diesel,8,Manual,1260,1887493,2024,6210
+City,27.5,Honda,Diesel,7,Manual,1096,1817794,2021,4259
+Santro,19.6,Hyundai,Hybrid,4,Manual,1922,687671,2021,8461
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2020,8140
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2025,7737
+Jazz,25,Honda,Petrol,8,Manual,1334,711152,2025,6605
+Venue,20.8,Hyundai,Electric,6,Automatic,990,591180,2024,5349
+i20,26.5,Hyundai,Electric,7,Manual,996,847080,2021,9415
+i20,19.4,Hyundai,CNG,7,Automatic,1402,1543185,2024,7357
+i10,25.9,Hyundai,CNG,5,Manual,991,839153,2020,8032
+Dzire,28.9,Maruti Suzuki,Petrol,8,Automatic,1970,1223402,2024,8046
+Harrier,14.63,Tata,Diesel,5,Manual/Automatic,1956,1369000,2021,8894
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2021,12110
+S-Presso,29.5,Maruti Suzuki,Petrol,4,Manual,1816,776094,2022,3984
+Amaze,15.8,Honda,Petrol,8,Automatic,1610,1272133,2025,11475
+Creta,16.8,Hyundai,Petrol/Diesel,5,Manual/Automatic,1497,999000,2024,13617
+Urban Cruiser,18.4,Toyota,Hybrid,8,Automatic,1745,697800,2025,14865
+Amaze,28.1,Honda,Hybrid,6,Automatic,1801,1925678,2023,1764
+City,29.9,Honda,Electric,8,Automatic,1888,1623090,2022,2502
+Urban Cruiser,19.1,Toyota,Petrol,6,Manual,1834,634987,2022,11083
+Nexon,25.9,Tata,CNG,5,Manual,1912,1089193,2024,12947
+Eeco,26.5,Maruti Suzuki,Petrol,7,Automatic,1587,1295109,2023,8367
+Baleno,20.3,Maruti Suzuki,Diesel,5,Automatic,1137,1684103,2023,6686
+Glanza,19,Toyota,Diesel,5,Manual,1313,1988877,2021,5742
+City,21.5,Honda,Petrol,5,Automatic,1245,1166860,2021,6823
+Dzire,25,Maruti Suzuki,Petrol,6,Manual,873,1120789,2024,9647
+Urban Cruiser,17.3,Toyota,Hybrid,6,Automatic,889,1009442,2022,6352
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2024,11982
+Safari,27.2,Tata,Electric,7,Manual,1107,866607,2024,12735
+Eeco,21.3,Maruti Suzuki,Diesel,6,Automatic,939,1601145,2020,5560
+Fortuner,17.1,Toyota,Petrol,5,Manual,1078,827184,2021,6471
+Alto K10,17,Maruti Suzuki,Petrol,6,Manual,1543,1381979,2025,10177
+Swift,21.21,Maruti Suzuki,Petrol,5,Manual/Automatic,1197,519000,2022,10457
+Tigor,18.6,Tata,Petrol,7,Automatic,1807,488782,2024,1338
+WR-V,28.9,Honda,Electric,6,Automatic,1256,1269573,2021,9044
+Urban Cruiser,19.4,Toyota,Hybrid,4,Automatic,1473,945825,2021,13774
+Wagon R,20.2,Maruti Suzuki,CNG,6,Automatic,968,712423,2024,3971
+Ertiga,16.8,Maruti Suzuki,Diesel,6,Manual,1523,1419263,2021,8512
+Jazz,23.6,Honda,Hybrid,5,Automatic,1796,1196839,2020,5314
+Urban Cruiser,19.5,Toyota,Electric,5,Automatic,1024,1803667,2020,7043
+Verna,15.2,Hyundai,Petrol,4,Automatic,1395,1889531,2025,7430
+i10,19.1,Hyundai,Hybrid,8,Manual,1610,1378259,2022,5884
+Jazz,25.1,Honda,Diesel,5,Automatic,1913,997574,2020,8092
+Santro,24.4,Hyundai,Hybrid,8,Manual,1200,1487181,2023,14299
+Tigor,20.6,Tata,CNG,5,Automatic,1214,830620,2020,1666
+Venue,28,Hyundai,Diesel,8,Automatic,1763,1534379,2022,14202
+Tiago,28.3,Tata,Electric,5,Automatic,1768,824777,2021,13545
+Safari,25.3,Tata,CNG,8,Manual,1550,1436705,2020,5377
+Jazz,19.8,Honda,CNG,5,Manual,1861,1729983,2025,13655
+Jazz,28,Honda,Diesel,8,Manual,840,963444,2022,13406
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2024,7100
+Tucson,13,Hyundai,Petrol/Diesel,5,Automatic,1999,3634000,2021,10215
